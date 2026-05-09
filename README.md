@@ -8,8 +8,8 @@ CineRate é uma plataforma web de críticas e comentários sobre filmes, desenvo
 
 ## 👥 Equipa
 
-| Nome | Número |
-|------|--------|
+| Nome | 
+|------|
 | Beatriz Cansado | 
 | David Cardoso | 
 | Gustavo Vília | 
