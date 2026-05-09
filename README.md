@@ -10,10 +10,10 @@ CineRate é uma plataforma web de críticas e comentários sobre filmes, desenvo
 
 | Nome | Número |
 |------|--------|
-| Beatriz Cansado | 202327095 |
-| David Cardoso | 202327138 |
-| Gustavo Vília | 202327134 |
-| Renato Almeida | 202427065 |
+| Beatriz Cansado | 
+| David Cardoso | 
+| Gustavo Vília | 
+| Renato Almeida | 
 
 **Docente:** Prof. Dr. Paulo Pombinho
 
@@ -73,7 +73,7 @@ cinerate/
 │       └── profiles/     ← Fotos de perfil dos utilizadores
 │
 ├── config/
-│   └── db.php            ← Ligação à base de dados (não incluído no repo)
+│   └── db.php            ← Ligação à base de dados 
 │
 ├── includes/
 │   ├── header.php        ← Cabeçalho e navbar globais
@@ -91,7 +91,6 @@ cinerate/
 │   ├── forgot_password.php
 │   └── reset_password.php
 │
-├── .gitignore
 ├── cinerate.sql          ← Script de criação e povoamento da base de dados
 ├── index.php             ← Página inicial
 └── README.md
