@@ -198,7 +198,7 @@ O design é inspirado em plataformas de streaming de cinema:
 ## 📸 Screenshots
 
 ### Página Inicial
-![Homepage](./assets/screenshots/home.png)
+"C:\xampp\htdocs\cinerate\assets\screenshots\home.png"
 
 ### Catálogo de Filmes
 ![Movies](./assets/screenshots/movies.png)
