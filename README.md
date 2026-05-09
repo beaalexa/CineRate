@@ -193,7 +193,17 @@ O design é inspirado em plataformas de streaming de cinema:
 
 ---
 
+## 📚 Funcionalidades Dinâmicas
+
+O projeto inclui funcionalidades dinâmicas desenvolvidas com JavaScript e AJAX:
+
+Notificações automáticas;
+Feed de comentários atualizado em tempo real;
+Validação dinâmica de formulários;
+Atualização automática de conteúdo sem recarregar páginas.
+
+---
+
 ## 📄 Licença
 
-Projeto académico desenvolvido para a Universidade Atlântica — Instituto Universitário.  
-Curso de Gestão de Sistemas e Computação — 3.º ano, 2025/2026.
+Projeto académico desenvolvido exclusivamente para fins educativos.
