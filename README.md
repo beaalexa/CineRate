@@ -6,19 +6,6 @@ CineRate é uma plataforma web de críticas e comentários sobre filmes, desenvo
 
 ---
 
-## 👥 Equipa
-
-| Nome | Número |
-|------|--------|
-| Beatriz Cansado | 202327095 |
-| David Cardoso | 202327138 |
-| Gustavo Vília | 202327134 |
-| Renato Almeida | 202427065 |
-
-**Docente:** Prof. Dr. Paulo Pombinho
-
----
-
 ## 📋 Descrição
 
 O CineRate permite aos utilizadores:
