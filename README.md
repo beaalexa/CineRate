@@ -69,8 +69,10 @@ cinerate/
 │   │   └── style.css     ← Estilos globais (19 secções comentadas)
 │   ├── js/
 │   │   └── main.js       ← JavaScript global (AJAX, validação, tema)
-│   └── uploads/
-│       └── profiles/     ← Fotos de perfil dos utilizadores
+│   ├──  uploads/
+│   │   └── profiles/     ← Fotos de perfil dos utilizadores
+│   └── screenshots/      ← Screenshots das páginas do site
+│   
 │
 ├── config/
 │   └── db.php            ← Ligação à base de dados 
@@ -190,6 +192,25 @@ O design é inspirado em plataformas de streaming de cinema:
 - Cards com animações suaves ao hover
 - Botões pill com 3 variantes (primário, secundário, ghost)
 - Layout totalmente responsivo com media queries para mobile
+
+---
+
+## 📸 Screenshots
+
+### Página Inicial
+![Homepage](assets/screenshots/home.png)
+
+### Catálogo de Filmes
+![Movies](assets/screenshots/movies.png)
+
+### Página de Filme
+![Movie](assets/screenshots/movie.png)
+
+### Página Login
+![Homepage](assets/screenshots/login.png)
+
+### Página Registo
+![Movies](assets/screenshots/registo.png)
 
 ---
 
