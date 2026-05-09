@@ -116,36 +116,7 @@ git clone https://github.com/beaalexa/cinerate.git
 C:\xampp\htdocs\cinerate\
 ```
 
-**3. Criar o ficheiro de configuração da base de dados**
-
-Cria o ficheiro `config/db.php` com o seguinte conteúdo:
-```php
-<?php
-define('DB_HOST',    'localhost');
-define('DB_NAME',    'cinerate');
-define('DB_USER',    'root');
-define('DB_PASS',    '');
-define('DB_CHARSET', 'utf8mb4');
-
-$options = [
-    PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
-    PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
-    PDO::ATTR_EMULATE_PREPARES   => false,
-];
-
-try {
-    $pdo = new PDO(
-        "mysql:host=" . DB_HOST . ";dbname=" . DB_NAME . ";charset=" . DB_CHARSET,
-        DB_USER, DB_PASS, $options
-    );
-} catch (PDOException $e) {
-    error_log("Falha na ligação à base de dados: " . $e->getMessage());
-    http_response_code(500);
-    die("Não foi possível ligar à base de dados.");
-}
-```
-
-**4. Importar a base de dados**
+**3. Importar a base de dados**
 
 No phpMyAdmin:
 1. Clica em **Import**
@@ -157,11 +128,11 @@ Ou pelo terminal:
 mysql -u root -p < cinerate.sql
 ```
 
-**5. Iniciar o XAMPP**
+**4. Iniciar o XAMPP**
 
 Inicia o **Apache** e o **MySQL** no XAMPP Control Panel.
 
-**6. Abrir no browser**
+**5. Abrir no browser**
 ```
 http://localhost/cinerate
 ```
