@@ -198,19 +198,19 @@ O design é inspirado em plataformas de streaming de cinema:
 ## 📸 Screenshots
 
 ### Página Inicial
-![Homepage](assets/screenshots/home.png)
+![Homepage](./assets/screenshots/home.png)
 
 ### Catálogo de Filmes
-![Movies](assets/screenshots/movies.png)
+![Movies](./assets/screenshots/movies.png)
 
 ### Página de Filme
-![Movie](assets/screenshots/movie.png)
+![Movie](./assets/screenshots/movie.png)
 
 ### Página Login
-![Homepage](assets/screenshots/login.png)
+![Login](./assets/screenshots/login.png)
 
 ### Página Registo
-![Movies](assets/screenshots/registo.png)
+![Register](./assets/screenshots/registo.png)
 
 ---
 
